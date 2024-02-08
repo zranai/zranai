@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**zranai/zranai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Biodata
 
-Here are some ideas to get you started:
+## Nama: [Zahra Nur Naimah]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tentang Saya
+Saya adalah [saya lahir dan besar di kota kecil brebes].
+
+## Pendidikan
+- SMA Sains Al-Quran Wahid Hasyim
+  
+
+## Kontak
+- Email: [zahranaimah5@gmail.com]
+- GitHub: [zranai ]
+- LinkedIn: [Profil LinkedIn]
+
+## Media Sosial
+- Twitter: [zahra_naiii]
+- Instagram: [zranai_]
